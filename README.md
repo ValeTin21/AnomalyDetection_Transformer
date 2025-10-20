@@ -109,7 +109,6 @@ Main references include:
 ## Contact
 
 **Author:** Valerio Tinari  
-**Student ID:** 1998628  
 **Email:** tinari.1998628@studenti.uniroma1.it  
 **Institution:** Sapienza University of Rome  
 **Advisors:** Prof. Stefano Giagu, Dr. Graziella Russo
