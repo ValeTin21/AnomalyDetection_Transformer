@@ -115,6 +115,4 @@ Main references include:
 
 ---
 
-*Dedicated to Francesco and Paola, my guides*
-
 © 2024 Valerio Tinari. All rights reserved.
