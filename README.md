@@ -98,13 +98,6 @@ The **transformed dataset** achieves best results because:
 - **Multi-Head Attention:** Parallel attention mechanisms with dynamic weights
 - **ROC Curve:** Trade-off between True Positive Rate and False Positive Rate
 
-## References
-
-Main references include:
-- ATLAS Experiment documentation (CERN)
-- "Attention Is All You Need" (Vaswani et al., 2023)
-- "The LHC Olympics 2020" (Kasieczka et al., 2021)
-- LHC Design Report (CERN, 2004)
 
 ## Contact
 
